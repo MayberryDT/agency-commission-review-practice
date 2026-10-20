@@ -23,3 +23,7 @@ Before using real records, establish agency/vendor permission, approved tools, n
 For a permitted trial, compare preparation, review and correction effort using the [whole-task cost worksheet](https://insuranceagencyvirtualassistant.com/cost#task-cost-worksheet). For existing scoped help, see [Cirlet's service page](https://cirlet.com/virtual-assistant).
 
 No expected commission, split, accounting entry, bank receipt, payroll, tax treatment, accuracy rate or savings is established by this exercise. It is not legal, insurance or accounting advice. No open-source or data-reuse license is supplied by this repository.
+
+## Related source-selection practice
+
+The [separate source-note lookup exercise](related-practice/source-note-lookup/README.md) applies the evidence-preservation habit to fictional service notes: two same-name contacts, an absent date and no proof of a completed change. It is separate from the five commission cases.
