@@ -1,0 +1,9 @@
+case_id,staff_minutes,hourly_staff_cost,additional_tool_cost,checked_result_count
+B1,90,30,1,10
+B2,120,30,2,10
+B3,1.5,30,0.25,2
+B4,0,0,0,1
+B5,,30,1,10
+B6,90,30,1,0
+B7,90,30,1,1.5
+B8,90,30,-0.01,10

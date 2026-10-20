@@ -27,3 +27,7 @@ No expected commission, split, accounting entry, bank receipt, payroll, tax trea
 ## Related source-selection practice
 
 The [separate source-note lookup exercise](related-practice/source-note-lookup/README.md) applies the evidence-preservation habit to fictional service notes: two same-name contacts, an absent date and no proof of a completed change. It is separate from the five commission cases.
+
+## Related arithmetic practice
+
+The [one-batch cost exercise](related-practice/batch-cost/README.md) supplies eight fictional input cases and a separate arithmetic key. It distinguishes blank inputs, explicit zeros and unusable counts, with a link to the existing local browser calculator. It does not calculate commissions or establish savings.
