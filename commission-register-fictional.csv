@@ -1,0 +1,5 @@
+register_ref,carrier_ref,policy_ref,policy_term_ref,producer_ref
+R01,FIC-A,00104,TERM-2026,P-ALPHA
+R02,FIC-A,00105,TERM-2026,P-BETA
+R03,FIC-A,00105,TERM-2026,P-GAMMA
+R04,FIC-B,00104,TERM-2026,P-DELTA
