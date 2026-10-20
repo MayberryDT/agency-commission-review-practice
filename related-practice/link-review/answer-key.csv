@@ -1,0 +1,4 @@
+case,expected_decision,remaining_gap,approval
+A,Hold and correct the destination,Actual intended section/form not available,
+B,Hold download claim pending file inspection,Format and contents unverified,
+C,Form visibility verified only,Submission and delivery unverified,

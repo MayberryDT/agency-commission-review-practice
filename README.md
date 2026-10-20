@@ -31,3 +31,7 @@ The [separate source-note lookup exercise](related-practice/source-note-lookup/R
 ## Related arithmetic practice
 
 The [one-batch cost exercise](related-practice/batch-cost/README.md) supplies eight fictional input cases and a separate arithmetic key. It distinguishes blank inputs, explicit zeros and unusable counts, with a link to the existing local browser calculator. It does not calculate commissions or establish savings.
+
+## Related link-review practice
+
+The [three-case link-review exercise](related-practice/link-review/README.md) separates page access, the intended action and delivery. It includes the original fictional observations, a blank review sheet and separate authored key; it does not browse or test the example domains.

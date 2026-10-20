@@ -1,0 +1,4 @@
+case,requested_url,intended_action,supplied_observation
+A,https://example.com/#contact,Find a contact form,Page opens; supplied observation says there is no contact section and no form visible.
+B,https://example.org/#worksheet,Download a worksheet,Worksheet link visible; download was not opened or inspected.
+C,https://example.net/#talk,Send an inquiry,Blank form visible after scrolling settled; nothing filled or submitted.
