@@ -4,6 +4,10 @@ A five-case fictional exercise for reviewing proposed matches between an agency 
 
 This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. All carriers, producers, references and amounts are invented. No customer records are included.
 
+## Download all practice files
+
+[Download the complete collection as a ZIP](https://github.com/MayberryDT/agency-commission-review-practice/archive/refs/heads/main.zip), then extract it and open the README for the exercise you want to try. No GitHub account or software installation is needed to download it. Keep the separate authored keys closed until you have tried the inputs; import CSV identifiers as text so leading zeros survive.
+
 ## Choose the task you want to practice
 
 | Task | Start here | What to check |
