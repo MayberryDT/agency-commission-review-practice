@@ -13,6 +13,14 @@ All proposed-value/source-reference/review-note cells start blank. Form A asks f
 
 A requested due date is a request, not a promised completion date. The received date is neither a review nor a send date. This exercise ends with proposed internal entries: no coverage decision, certificate issuance, approval, delivery, real-system access or proof of compatibility.
 
+## Review an already-filled draft
+
+After trying the blank forms, use the [deliberately flawed draft](form-b-deliberately-flawed.csv). This is authored fictional teaching material, **not output from a model or an employee**. Some entries are correct; some contain intentionally planted errors. Do not import it into a real system.
+
+Compare all seven rows with the original source record. In the [blank review sheet](draft-review-blank.csv), mark keep/change/leave blank, propose a correction and cite the exact source field or missing evidence. A plausible value with an unrelated source reference still needs correction. Check your review against the [separate draft-review key](DRAFT-REVIEW-KEY.md) only after finishing.
+
+The key identifies four affected rows, including a correct value with an incorrect citation. This is a small training fixture, not an accuracy score, representative error rate or pass threshold. No operational approval or completed review is established by finishing it.
+
 ## Provenance and related resources
 
 Original AI-assisted fictional teaching material prepared for Tyler Mayberry's agency review-practice collection. All names, references and dates are invented; there are no customer records. The motivating workflow observation is that an actual required layout can differ from a demonstration layout. It does not establish a vendor feature or a representative agency need.
