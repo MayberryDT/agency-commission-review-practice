@@ -1,6 +1,6 @@
 # Agency review practice: five fictional exercises
 
-A five-case fictional exercise for reviewing proposed matches between an agency policy register and commission-statement rows. Practice preserving source evidence and leaving ambiguous records unresolved before considering automation.
+Practice commission-row matching, source-note lookup, task-cost arithmetic, link review and form mapping with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
 
 This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. All carriers, producers, references and amounts are invented. No customer records are included.
 
