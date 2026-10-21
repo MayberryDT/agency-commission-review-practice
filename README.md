@@ -1,4 +1,4 @@
-# Agency review practice: four fictional exercises
+# Agency review practice: five fictional exercises
 
 A five-case fictional exercise for reviewing proposed matches between an agency policy register and commission-statement rows. Practice preserving source evidence and leaving ambiguous records unresolved before considering automation.
 
@@ -12,6 +12,7 @@ This is an educational reference, **not a reconciliation application, model benc
 | Find the right earlier conversation | [Source-note lookup](related-practice/source-note-lookup/README.md) | Retain the exact source; do not invent an absent date or confirmation. |
 | Calculate cost per checked result | [One-batch arithmetic](related-practice/batch-cost/README.md) | Separate unknown inputs from explicit zeros and stop on unusable counts. |
 | Review a customer-facing resource link | [Link-review cases](related-practice/link-review/README.md) | Distinguish page access, the intended action and delivery evidence. |
+| Map one request into different intake layouts | [Two-form mapping](related-practice/form-mapping/README.md) | Keep requester, assigned reviewer and completed review distinct; preserve source references. |
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
@@ -25,7 +26,7 @@ The exercise compares carrier, policy and term references. Those fields are not 
 
 ## Scope and provenance
 
-These are the same source rows published in the [canonical agency software guide](https://insuranceagencyvirtualassistant.com/software#commission-review). That page also offers a printable two-page worksheet/key. This repository distributes the existing exercise in a plain-text format; it adds no new cases, measured results or model run.
+These are the same source rows published in the [canonical agency software guide](https://insuranceagencyvirtualassistant.com/software#commission-review). That page also offers a printable two-page worksheet/key. The commission section distributes that existing exercise in plain text without adding commission cases, measured results or a model run. The separately linked form-mapping exercise is original fictional teaching material.
 
 The material and this repository were prepared with AI assistance. Tyler Mayberry builds software through **Cirlet**, which offers paid AI and automation help to independent insurance agencies. The canonical guide is on a commercial service site. No insurance-practitioner credentials, vendor affiliation, integration or client success are claimed.
 

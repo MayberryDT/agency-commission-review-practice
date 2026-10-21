@@ -1,0 +1,7 @@
+source_id,field,value
+REQ-01,request_reference,R-017
+REQ-01,client_name,Harbor Lantern Workshop
+REQ-01,policy_reference,000472
+REQ-01,requested_by,Alex Rivers
+REQ-01,received_date,2026-10-03
+REQ-01,requested_due_date,2026-10-06
