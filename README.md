@@ -1,10 +1,21 @@
-# Agency commission-record review practice
+# Agency review practice: four fictional exercises
 
 A five-case fictional exercise for reviewing proposed matches between an agency policy register and commission-statement rows. Practice preserving source evidence and leaving ambiguous records unresolved before considering automation.
 
 This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. All carriers, producers, references and amounts are invented. No customer records are included.
 
-## Try it
+## Choose the task you want to practice
+
+| Task | Start here | What to check |
+| --- | --- | --- |
+| Review proposed commission-row matches | [Five-case matching exercise](#commission-row-matching) | Preserve identifiers and leave ambiguous candidates unresolved. |
+| Find the right earlier conversation | [Source-note lookup](related-practice/source-note-lookup/README.md) | Retain the exact source; do not invent an absent date or confirmation. |
+| Calculate cost per checked result | [One-batch arithmetic](related-practice/batch-cost/README.md) | Separate unknown inputs from explicit zeros and stop on unusable counts. |
+| Review a customer-facing resource link | [Link-review cases](related-practice/link-review/README.md) | Distinguish page access, the intended action and delivery evidence. |
+
+Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
+
+## Commission-row matching
 
 1. Open [the fictional register](commission-register-fictional.csv) and [statement rows](commission-statements-fictional.csv). Import policy references as **text** so `00104` and `00105` retain their leading zeros. Preserve the signed amount, including `-5.00`.
 2. For each statement row, record candidate register references, supporting source fields, uncertainty and the next reviewer action. Do not choose an arbitrary first match when more than one candidate exists.
