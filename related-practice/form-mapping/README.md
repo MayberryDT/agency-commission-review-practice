@@ -15,6 +15,8 @@ A requested due date is a request, not a promised completion date. The received 
 
 ## Review an already-filled draft
 
+For a printable version, [download the four-page review worksheet and separate answer key](review-a-fictional-filled-form.pdf). Print pages 1–3 for the exercise and keep page 4 aside until finished. It contains the same fictional source, deliberately flawed draft and separate AI-assisted authored key; it is not a model result, an interactive form or a real carrier form.
+
 After trying the blank forms, use the [deliberately flawed draft](form-b-deliberately-flawed.csv). This is authored fictional teaching material, **not output from a model or an employee**. Some entries are correct; some contain intentionally planted errors. Do not import it into a real system.
 
 Compare all seven rows with the original source record. In the [blank review sheet](draft-review-blank.csv), mark keep/change/leave blank, propose a correction and cite the exact source field or missing evidence. A plausible value with an unrelated source reference still needs correction. Check your review against the [separate draft-review key](DRAFT-REVIEW-KEY.md) only after finishing.
