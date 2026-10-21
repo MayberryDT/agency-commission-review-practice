@@ -11,7 +11,13 @@ Use these eight fictional cases to practice calculating cost per **checked resul
 
 Count preparation, attended running, review, corrections and filing in staff minutes. Count only results actually checked against your required standard. Keep setup and monthly upkeep separate: the calculator excludes them. The broader [whole-task worksheet](https://insuranceagencyvirtualassistant.com/cost#task-cost-worksheet) provides context for comparing methods.
 
-The live calculator starts blank and clears stale output when an input changes. It calculates locally without sending or storing calculator inputs; existing site analytics still runs. Without JavaScript its controls stay disabled, while the original worksheet and worked example remain available. This reference does not add another calculator or submit any figures.
+## Use the calculator offline
+
+Download [calculator.html](calculator.html), save it as an HTML file, and open it in a browser. GitHub's normal file view shows the source; it does not run the calculator. The downloaded file is self-contained and needs no server, installation, signup or model API. Start with the fictional inputs above; no client records are needed.
+
+This is an AI-assisted adaptation of the existing browser calculator, not a separate measured model experiment. All four figures start blank; changing a figure clears the old result. It rejects missing values, negative or non-finite figures, and zero or fractional checked-result counts. Explicit zero cost is allowed. Without JavaScript, its inputs stay disabled and the visible formula remains available.
+
+The file contains no network, storage or tracking calls. Following its optional source-guide link opens the commercial guide, where existing site analytics runs. Inputs are not sent by the calculator. Seventeen automated Chrome checks passed for the local-file version, including arithmetic, reset, keyboard, narrow layouts and no-JavaScript behavior; no physical-device or screen-reader test is claimed.
 
 ## Limits and affiliation
 

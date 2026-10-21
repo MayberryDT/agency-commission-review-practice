@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Calculate staff, batch and per-checked-result cost from four supplied figures. Deterministic arithmetic, not an AI benchmark.">
+<title>Cost per checked result</title>
+<style>
+:root{font-family:system-ui,sans-serif;color:#192a3b;background:#f4f6f8;font-size:18px;line-height:1.55}*{box-sizing:border-box}main{max-width:860px;margin:auto;padding:clamp(18px,4vw,44px)}h1{font-size:clamp(2rem,6vw,3rem);line-height:1.12}h2{font-size:1.3rem}a{color:#164d87;text-underline-offset:3px}.batch-cost{background:white;padding:clamp(16px,3vw,28px);border:1px solid #b0bac4;margin:1.5rem 0}fieldset{border:0;padding:0;margin:0;min-width:0}legend{font-weight:650;margin-bottom:16px}.batch-cost-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}label{display:flex;flex-direction:column;gap:7px;font-weight:600;min-width:0}input{width:100%;min-width:0;font:inherit;padding:12px;background:white;color:#192a3b;border:1px solid #677583}.batch-cost-actions{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0}button{font:600 1rem system-ui;padding:12px 16px;border:2px solid #192a3b;background:#192a3b;color:white;cursor:pointer}button[type=reset]{background:white;color:#192a3b}:is(a,input,button):focus-visible{outline:3px solid #b34b00;outline-offset:3px}output{display:block;padding:16px;background:#f4f6f8;overflow-wrap:anywhere}small{font-weight:400;font-size:.8rem}footer{border-top:1px solid #b0bac4;margin-top:2rem;padding-top:1rem;font-size:.9rem}@media(max-width:600px){.batch-cost-fields{grid-template-columns:1fr}}
+</style>
+
+</head>
+<body><main>
+<p>Tyler Mayberry · Cirlet · AI-assisted teaching tool</p>
+<h1>Cost per checked result</h1>
+<p>An AI output is not necessarily a checked result. Include the staff time spent preparing, checking and correcting a batch before comparing its cost.</p>
+<p>This tool calculates from figures you supply. It does not run a model, choose a vendor or predict savings.</p>
+<section class="batch-cost" aria-labelledby="calculator-title">
+<h2 id="calculator-title">Calculate one reviewed batch</h2>
+<form id="batch-cost-form">
+<fieldset disabled><legend>Use one currency throughout; leave unknown figures blank.</legend>
+<div class="batch-cost-fields">
+<label>Total staff minutes<input name="minutes" type="number" min="0" max="1000000" step="any" required><small>Preparation + checking + correction; maximum 1,000,000.</small></label>
+<label>Internal hourly rate<input name="rate" type="number" min="0" max="1000000" step="any" required><small>Your cost assumption, not a quoted service price; maximum 1,000,000.</small></label>
+<label>Additional batch tool cost<input name="tools" type="number" min="0" max="1000000000" step="any" required><small>Explicit zero allowed; maximum 1,000,000,000.</small></label>
+<label>Checked results<input name="count" type="number" min="1" max="1000000" step="1" required><small>Positive whole count, not raw outputs; maximum 1,000,000.</small></label>
+</div>
+<div class="batch-cost-actions"><button type="submit">Calculate</button><button type="reset">Clear figures</button></div>
+</fieldset>
+<output id="batch-cost-result" aria-live="polite">Enter all four figures to calculate. Nothing is assumed from an empty field.</output>
+</form>
+<noscript><p>JavaScript is disabled, so the controls are unavailable. Use the formula below instead.</p></noscript>
+</section>
+<h2>The formula</h2>
+<p>Staff cost = minutes ÷ 60 × hourly rate.<br>Batch cost = staff cost + additional tool cost.<br>Cost per checked result = batch cost ÷ checked-result count.</p>
+<p>Fictional teaching example: 90 staff minutes at 30 per hour, plus 1 in tool cost, produces a batch cost of 46. With 10 checked results, that is 4.60 per checked result. This is arithmetic, not a customer result or measured AI performance.</p>
+<p>Setup, ongoing maintenance, and the quality of your checking criteria need separate assessment. Zero checked results has no defined per-result cost. Unknown costs prevent a complete comparison.</p>
+<p>For blank worksheets, examples and limits, use the <a href="https://insuranceagencyvirtualassistant.com/cost#task-cost-worksheet" target="_blank" rel="noopener">source task-cost guide</a>.</p>
+<footer>Adapted with AI assistance from Cirlet's existing calculator. Cirlet provides paid AI/software help separately. This tool requires no purchase, signup or client records. Its code makes no network, storage, analytics or model calls; hosting-platform operations are separate.</footer>
+</main><script>
+// Deterministic arithmetic only. No network, storage, model or tracking calls.
+function calculateBatchCost(values) {
+  const bounds = { minutes: 1000000, rate: 1000000, tools: 1000000000, count: 1000000 };
+  const numbers = {};
+  for (const [name, max] of Object.entries(bounds)) {
+    const raw = values[name];
+    if (typeof raw !== 'string' || raw.trim() === '') throw new Error('Enter all four figures. Unknown values must stay blank.');
+    const value = Number(raw);
+    if (!Number.isFinite(value) || value < 0 || value > max) throw new Error('Use finite, non-negative figures within the displayed limits.');
+    numbers[name] = value;
+  }
+  if (!Number.isInteger(numbers.count) || numbers.count < 1) throw new Error('Enter at least one whole checked result.');
+  const staff = numbers.minutes / 60 * numbers.rate;
+  const batch = staff + numbers.tools;
+  return { ...numbers, staff, batch, perResult: batch / numbers.count };
+}
+
+if (typeof document !== 'undefined') {
+  const form = document.querySelector('#batch-cost-form');
+  const result = document.querySelector('#batch-cost-result');
+  if (form && result) {
+    const empty = 'Enter all four figures to calculate. Nothing is assumed from an empty field.';
+    const format = new Intl.NumberFormat('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    form.addEventListener('submit', event => {
+      event.preventDefault();
+      try {
+        const c = calculateBatchCost(Object.fromEntries(new FormData(form)));
+        result.textContent = `Staff cost: ${format.format(c.staff)}. Batch cost: ${format.format(c.batch)}. Cost per checked result: ${format.format(c.perResult)}. All amounts use your currency, rounded to two decimal places. Staff cost = ${c.minutes} minutes / 60 × ${c.rate}; batch cost adds ${c.tools}; per-result cost divides by ${c.count}.`;
+      } catch (error) { result.textContent = error.message; }
+    });
+    form.addEventListener('input', () => { result.textContent = empty; });
+    form.addEventListener('reset', () => { result.textContent = empty; });
+    form.querySelector('fieldset').disabled = false;
+  }
+}
+
+</script></body></html>
