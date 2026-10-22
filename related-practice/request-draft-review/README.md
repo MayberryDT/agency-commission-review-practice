@@ -12,7 +12,7 @@ This is original AI-assisted teaching material. The request, checklist and draft
 4. Check both directions: does the draft answer each source question, and does every new claim in the draft have support? Do not mark a reply ready just because its opening sentence is correct.
 5. Compare with the key, then discuss what would need clarification before anyone prepares another draft. Keep any actual approval and sending outside this exercise.
 
-You may review the files yourself or ask an approved AI tool to propose the comparison using only these fictional inputs. Keep your own review decision separate. No tool has been run or scored for this fixture.
+You may review the files yourself or ask an approved AI tool to propose the comparison using only these fictional inputs. Keep your own review decision separate. The original exercise supplies no tool score. A [separate dated CLI observation](../../observations/2026-10-22-grok-cli/README.md) records one review response with context isolation unverified; it is not a benchmark.
 
 ## Check IDs
 

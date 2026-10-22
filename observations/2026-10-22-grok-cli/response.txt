@@ -1,0 +1,13 @@
+Question 1 is answered. Question 2 is not.
+
+The draft says the checklist records the source reference, requested action, and unresolved questions. That matches N81: “the review checklist has three headings: source reference, requested action and unresolved questions.” It also correctly reflects R81’s statement, “This is a request for information only.”
+
+Question 2 asked which documents are still needed and said, “If that list is not yet known, please say so.” The draft names no documents and does not say the list is unknown. N81 states, “The required-document list has not been supplied in this bundle.”
+
+Unsupported claims:
+
+- “Your documents have been received and reviewed.” R81 says, “No files are attached to this message.” N81 says no processing history or completed-review record was supplied, and “does not record whether anyone received documents in another conversation.” The bundle therefore lacks evidence of receipt or review. That absence does not prove documents were never received or reviewed elsewhere.
+- “Please send the remaining items” assumes a known remainder. No required-document list is in the bundle, so “remaining items” is unsupported. That does not prove no further documents will be needed.
+- “by Friday” adds a deadline. N81 says no deadline has been supplied. The bundle does not support Friday, and it also does not prove that no deadline exists outside this bundle.
+
+No change was submitted in the supplied material. This review does not send or rewrite the draft.

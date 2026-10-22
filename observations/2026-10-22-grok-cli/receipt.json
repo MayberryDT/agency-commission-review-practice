@@ -1,0 +1,42 @@
+{
+  "source_head": "9bae9e93d1cadbdd36f33fc412fa8a76c46b0a17",
+  "model_requested": "grok-4.7",
+  "system_prompt": "Review the supplied fictional text only. Return your review as plain text. Do not use tools or external information.",
+  "key_supplied": false,
+  "prompt_sha256": "f4b9a27429500fb42bea4282de36661f0df916f483cda491bcb246e772d1274e",
+  "source_sha256": {
+    "source-fictional.md": "df8cb2027958579cf0848320c5aedef83ffa9c3eec9c34cfbead85bc28a4916f",
+    "draft-deliberately-flawed.md": "14a32bea8125e05ba0a104b42098a0e81b6c0169a95abd540927a030edd4caec"
+  },
+  "model_reported": [
+    "grok-4.7-build"
+  ],
+  "model_calls": 1,
+  "num_turns": 1,
+  "stop_reason": "end_turn",
+  "usage": {
+    "input_tokens": 42666,
+    "cache_read_input_tokens": 1152,
+    "cache_creation_input_tokens": 0,
+    "output_tokens": 1264,
+    "reasoning_tokens": 959,
+    "total_tokens": 45082
+  },
+  "reported_usage_cost_usd": 0.03178728,
+  "billing_status": "Subscription authentication observed; incremental invoice/cash charge not established. CLI-reported usage estimate is retained, not represented as a verified paid charge.",
+  "context_isolation_verified": false,
+  "tool_disable_flags_requested": [
+    "--tools empty-string",
+    "--no-subagents",
+    "--disable-web-search"
+  ],
+  "system_prompt_override": "Review the supplied fictional text only. Return your review as plain text. Do not use tools or external information.",
+  "response_sha256": "be5a289b5860432fa78ca0c6579e642b584db4215071231a220b3a1b24101766",
+  "limitations": [
+    "One first response, no rerun/selection of a best result.",
+    "Prompt file excludes authored key; hidden bootstrap context was not captured and full isolation is unverified.",
+    "Reported input token count exceeds supplied prompt size; no controlled/held-out benchmark or performance score.",
+    "Public AI-assisted authored fixture; no real records, sending, live system integration or customer outcome.",
+    "Requested grok-4.7; CLI reports grok-4.7-build."
+  ]
+}

@@ -1,0 +1,33 @@
+Review the following fictional administrative reply using only the supplied request and checklist note. For each question in the original request, state whether the draft answers it. Identify factual claims in the draft that the supplied material does not support. Cite the relevant request/note wording, and distinguish missing evidence from proof that an event never happened. Do not rewrite or send the reply. Do not browse or use tools.
+
+# Fictional source bundle: R81 and N81
+
+All people, requests and records below are invented for review practice. This is not a customer file or a carrier procedure.
+
+## R81 — original request
+
+From: fictional operations contact at Ridge Paper Co.
+
+We are considering a second location. Please answer both questions:
+
+1. What does your review checklist cover?
+2. Which documents do I still need to provide? If that list is not yet known, please say so.
+
+This is a request for information only. Please do not submit a change. No files are attached to this message.
+
+## N81 — supplied checklist note
+
+For this exercise, the review checklist has three headings: source reference, requested action and unresolved questions.
+
+The required-document list has not been supplied in this bundle. No processing history, completed-review record or deadline has been supplied. This note does not record whether anyone received documents in another conversation.
+
+Use R81 and N81 only. Do not fetch a real checklist, choose insurance documents, infer a date, contact anyone, enter a system or submit a change.
+
+
+# Authored draft for review — deliberately flawed
+
+This is fictional teaching material, deliberately written with AI assistance, not a real outgoing reply, a captured result from testing an AI tool or a recommended response. Some statements are supported and others are not.
+
+> Our review checklist records the source reference, requested action and unresolved questions. Your documents have been received and reviewed. Please send the remaining items by Friday. I understand this is a request for information only.
+
+Compare every claim with R81 and N81, and check whether both original questions received an answer. Do not send this draft or treat its statements as events that occurred.

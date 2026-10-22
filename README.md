@@ -25,6 +25,10 @@ This is an educational reference, **not a reconciliation application, model benc
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
+## One dated CLI observation
+
+[A captured review of the request-to-draft fixture](observations/2026-10-22-grok-cli/README.md) includes the exact supplied prompt, first assistant response and runtime limits. It uses fictional inputs, supplies no performance score and does not establish fully isolated context or readiness for real agency records. The deliberately flawed teaching draft remains separate from the observed review.
+
 ## Commission-row matching
 
 1. Open [the fictional register](commission-register-fictional.csv) and [statement rows](commission-statements-fictional.csv). Import policy references as **text** so `00104` and `00105` retain their leading zeros. Preserve the signed amount, including `-5.00`.
