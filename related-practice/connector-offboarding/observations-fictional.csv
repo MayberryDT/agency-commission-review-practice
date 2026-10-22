@@ -1,0 +1,5 @@
+case_id,observed_at_utc,location,fictional_observation
+R1,2026-10-22T09:20:00Z,test connector request log,"A retrieval request using the tested assistant identity for the new message returned access denied. No retained-data inspection is supplied."
+R2,2026-10-22T09:20:00Z,test connector response,"The response contains AFTER-REVOKE-002. No evidence identifying the retrieval route or any other identity is supplied."
+R3,2026-10-22T09:20:00Z,reviewer's saved test export,"The saved export contains BEFORE-REVOKE-001. No current retrieval attempt or remote deletion evidence is supplied."
+R4,2026-10-22T09:20:00Z,fictional tool deletion status,"The deletion request has status queued. The bundle includes no completed-job receipt or retained-data inspection."

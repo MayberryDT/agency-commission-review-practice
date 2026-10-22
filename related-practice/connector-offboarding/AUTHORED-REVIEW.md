@@ -1,0 +1,12 @@
+# Separate authored key — open after your review
+
+This is an AI-assisted teaching key, not output captured from testing a model, product or agency. Other careful answers may identify additional questions. None of the cases proves full offboarding, a breach or a deletion guarantee.
+
+| Case | Established by the fictional bundle | Not established | Suggested next owner and verification |
+| --- | --- | --- | --- |
+| R1 | One new-message retrieval request using the tested identity was denied at 09:20. | That every identity or route lost access; that earlier copies, histories, indexes or logs were deleted; that sending permission is absent. | Authorized IT/provider owner: reconcile the tested identity and permission scope, then separately inventory retained copies and applicable retention controls. |
+| R2 | The observed response contains the marker placed in a new message after the recorded revocation. This fails the expected result for this synthetic check. | The retrieval mechanism, whether a different authorized identity was involved, whether revocation had propagated, or a real-world breach. | Authorized test owner: stop the trial's sensitive actions under the agreed stop plan; preserve the response and relevant access evidence, identify the route, correct scope as authorized and retest. Do not diagnose a specific exploit from the marker alone. |
+| R3 | The inspected saved export still contains the earlier marker. That copy exists in the inspected location at the observation time. | Current mailbox access; the state of other local or remote copies; a violation of an unspecified retention requirement. | Agency/provider data owner: decide the permitted retention and disposition of the export, apply the agreed controls and verify that specific location. Assess other locations separately. |
+| R4 | A deletion request was queued. | Completed deletion, its scope, completion time or removal from all histories, indexes, logs and backups. | Tool administrator/provider: obtain the actual completion or failure receipt and documented scope; verify the agreed locations and preserve exclusions or unknowns. Do not call queued work completed. |
+
+The important difference is between a narrow observed result and a broad conclusion. Keep unknowns visible rather than filling them with reassuring wording. Production permission changes and retention decisions belong to authorized people under the agreed plan.

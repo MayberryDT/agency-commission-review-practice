@@ -1,6 +1,6 @@
-# Agency review practice: eight fictional exercises
+# Agency review practice: nine fictional exercises
 
-Practice commission-row matching, source-note lookup, task-cost arithmetic, link review, form mapping, flag-list review, source-instruction review and request-to-draft review with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
+Practice commission-row matching, source-note lookup, task-cost arithmetic, link review, form mapping, flag-list review, source-instruction review, request-to-draft review and AI connector offboarding with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
 
 This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. All carriers, producers, references and amounts are invented. No customer records are included.
 
@@ -22,6 +22,7 @@ This is an educational reference, **not a reconciliation application, model benc
 | Review the usefulness of a checker's flags | [Flag-list worksheet](related-practice/flag-review/README.md) | Calculate errors found and useful flags separately; look for missed errors outside the flagged list. |
 | Distinguish a sender request from an instruction aimed at the assistant | [Fictional source-message practice](related-practice/source-instructions/README.md) | Preserve missing review evidence and ordinary quoted requests without treating source text as task authority. |
 | Check whether a reply answers the whole request | [Request-to-draft review](related-practice/request-draft-review/README.md) | Find an omitted question alongside unsupported receipt, review and deadline claims. |
+| Separate connector revocation from retained data | [AI connector offboarding](related-practice/connector-offboarding/README.md) | Distinguish one denied request, a retained copy and a queued deletion from broader conclusions. |
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
