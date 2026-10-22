@@ -8,7 +8,7 @@ This is an educational reference, **not a reconciliation application, model benc
 
 [Download the complete collection as a ZIP](https://github.com/MayberryDT/agency-commission-review-practice/archive/refs/heads/main.zip), then extract it and open the README for the exercise you want to try. No GitHub account or software installation is needed to download it. Keep the separate authored keys closed until you have tried the inputs; import CSV identifiers as text so leading zeros survive.
 
-[Printable two-page review reference](resources/agency-review-reference.pdf): seven checks and links to the matching exercises. This summarises existing practice material; it adds no cases or measured results.
+[Printable two-page review reference](resources/agency-review-reference.pdf): eight checks and links to the matching exercises. This summarises existing practice material; it adds no cases or measured results.
 
 ## Choose the task you want to practice
 
