@@ -2,7 +2,7 @@
 
 Compare one fictional request and a supplied checklist note with a deliberately flawed reply. Find the unanswered question as well as statements that lack evidence. A reply can contain correct facts and still leave part of the request unanswered.
 
-This is original AI-assisted teaching material. The request, checklist and draft are invented; the draft is **not output from a model or an employee**. There are no customer records, carrier requirements, coverage decisions, measured results or real communications.
+This is original AI-assisted teaching material. The request, checklist and draft are invented; the draft was deliberately written with AI assistance for this exercise. It is **not a captured result from testing an AI tool on these inputs or a real employee message**. There are no customer records, carrier requirements, coverage decisions, measured results or real communications.
 
 ## Try it
 

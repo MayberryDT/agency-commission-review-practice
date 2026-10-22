@@ -1,6 +1,6 @@
 # Separate authored review key
 
-Open after completing the blank sheet. This key describes the intended decisions for one invented bundle; it is not observed AI output, an accuracy result or an operational approval.
+Open after completing the blank sheet. This key describes the intended decisions for one invented bundle; it was written with AI assistance, not captured from a test of an AI tool, and supplies no accuracy result or operational approval.
 
 | Check | Intended assessment | Source and draft comparison | Next review action |
 | --- | --- | --- | --- |
