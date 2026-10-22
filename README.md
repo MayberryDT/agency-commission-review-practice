@@ -1,6 +1,6 @@
-# Agency review practice: six fictional exercises
+# Agency review practice: seven fictional exercises
 
-Practice commission-row matching, source-note lookup, task-cost arithmetic, link review, form mapping and flag-list review with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
+Practice commission-row matching, source-note lookup, task-cost arithmetic, link review, form mapping, flag-list review and source-instruction review with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
 
 This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. All carriers, producers, references and amounts are invented. No customer records are included.
 
@@ -18,6 +18,7 @@ This is an educational reference, **not a reconciliation application, model benc
 | Review a customer-facing resource link | [Link-review cases](related-practice/link-review/README.md) | Distinguish page access, the intended action and delivery evidence. |
 | Map one request into different intake layouts | [Two-form mapping](related-practice/form-mapping/README.md) | Keep requester, assigned reviewer and completed review distinct; preserve source references. |
 | Review the usefulness of a checker's flags | [Flag-list worksheet](related-practice/flag-review/README.md) | Calculate errors found and useful flags separately; look for missed errors outside the flagged list. |
+| Distinguish a sender request from an instruction aimed at the assistant | [Fictional source-message practice](related-practice/source-instructions/README.md) | Preserve missing review evidence and ordinary quoted requests without treating source text as task authority. |
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
