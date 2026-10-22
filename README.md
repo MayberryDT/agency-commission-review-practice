@@ -1,6 +1,6 @@
-# Agency review practice: five fictional exercises
+# Agency review practice: six fictional exercises
 
-Practice commission-row matching, source-note lookup, task-cost arithmetic, link review and form mapping with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
+Practice commission-row matching, source-note lookup, task-cost arithmetic, link review, form mapping and flag-list review with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
 
 This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. All carriers, producers, references and amounts are invented. No customer records are included.
 
@@ -17,6 +17,7 @@ This is an educational reference, **not a reconciliation application, model benc
 | Calculate cost per checked result | [One-batch arithmetic](related-practice/batch-cost/README.md) | Separate unknown inputs from explicit zeros and stop on unusable counts. |
 | Review a customer-facing resource link | [Link-review cases](related-practice/link-review/README.md) | Distinguish page access, the intended action and delivery evidence. |
 | Map one request into different intake layouts | [Two-form mapping](related-practice/form-mapping/README.md) | Keep requester, assigned reviewer and completed review distinct; preserve source references. |
+| Review the usefulness of a checker's flags | [Flag-list worksheet](related-practice/flag-review/README.md) | Calculate errors found and useful flags separately; look for missed errors outside the flagged list. |
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
