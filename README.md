@@ -1,4 +1,4 @@
-# Agency review practice: nine fictional exercises
+# Agency review practice: fictional exercises and a team rehearsal
 
 Practice commission-row matching, source-note lookup, task-cost arithmetic, link review, form mapping, flag-list review, source-instruction review, request-to-draft review and AI connector offboarding with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
 
@@ -26,6 +26,10 @@ This is an educational reference, **not a reconciliation application, model benc
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
+## Rehearse a suspicious payment-change request
+
+[Agency security tabletop](related-practice/security-tabletop/README.md): the existing Cirlet 15-minute fictional discussion, with editable exercise and after-action worksheets. For trainers and IT providers helping an agency identify its trusted verification route, approval owner and unanswered questions. This republishes existing kit material; it is not a live security test or a customer result. Its specific reuse terms are linked in the folder.
+
 ## One dated CLI observation
 
 [A captured review of the request-to-draft fixture](observations/2026-10-22-grok-cli/README.md) includes the exact supplied prompt, first assistant response and runtime limits. It uses fictional inputs, supplies no performance score and does not establish fully isolated context or readiness for real agency records. The deliberately flawed teaching draft remains separate from the observed review.
@@ -42,13 +46,13 @@ The exercise compares carrier, policy and term references. Those fields are not 
 
 These are the same source rows published in the [canonical agency software guide](https://insuranceagencyvirtualassistant.com/software#commission-review). That page also offers a printable two-page worksheet/key. The commission section distributes that existing exercise in plain text without adding commission cases, measured results or a model run. The separately linked form-mapping exercise is original fictional teaching material.
 
-The material and this repository were prepared with AI assistance. Tyler Mayberry builds software through **Cirlet**, which offers paid AI and automation help to independent insurance agencies. The canonical guide is on a commercial service site. No insurance-practitioner credentials, vendor affiliation, integration or client success are claimed.
+The material and this repository were prepared with AI assistance. Tyler Mayberry builds software through **Cirlet**, which offers scoped cybersecurity reviews, practical AI training and workflow automation help to independent insurance agencies. The canonical guide is on a commercial service site. No insurance-practitioner credentials, vendor affiliation, integration or client success are claimed.
 
 Before using real records, establish agency/vendor permission, approved tools, named reviewers and stop conditions. Keep private records out of public repositories and issues. Coverage decisions, sending and financial approval remain with responsible people.
 
 For a permitted trial, compare preparation, review and correction effort using the [whole-task cost worksheet](https://insuranceagencyvirtualassistant.com/cost#task-cost-worksheet). For existing scoped help, see [Cirlet's service page](https://cirlet.com/virtual-assistant).
 
-No expected commission, split, accounting entry, bank receipt, payroll, tax treatment, accuracy rate or savings is established by this exercise. It is not legal, insurance or accounting advice. No open-source or data-reuse license is supplied by this repository.
+No expected commission, split, accounting entry, bank receipt, payroll, tax treatment, accuracy rate or savings is established by this exercise. It is not legal, insurance or accounting advice. No blanket open-source or data-reuse license is supplied by this repository. The separately labeled security-tabletop folder retains the original kit’s specific reuse terms.
 
 ## Related source-selection practice
 

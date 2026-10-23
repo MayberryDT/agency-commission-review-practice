@@ -1,0 +1,24 @@
+CIRLET | Blank agency tabletop after-action worksheet
+October 22, 2026 | Preparation only; no technical test or certification.
+Source: https://aicybersecurityforinsuranceagencies.com/readiness-kit#after-action
+
+Use roles and approved document locations. Do not enter passwords, recovery codes,
+customer records, bank details or private account screenshots.
+
+Exercise / date:
+Decision attempted:
+Observation (what happened in discussion, without guessing):
+Evidence actually located:
+Not tested:
+What remains unknown:
+Interim decision / established escalation:
+Follow-up action and evidence requested:
+Accountable owner role:
+Review date:
+Status at review / evidence of any later change:
+
+Unknown does not mean compromised. A described control is not a verified control.
+Example: https://aicybersecurityforinsuranceagencies.com/examples/tabletop-after-action
+Bring unresolved questions to the existing provider. Optional Cirlet help has
+separate scope and terms: https://cirlet.com/security-review
+Reuse under the kit terms; attribute Cirlet. Publishers may qualify source links.

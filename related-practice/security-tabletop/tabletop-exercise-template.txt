@@ -1,0 +1,30 @@
+CIRLET | Insurance agency cybersecurity tabletop exercise
+Original fictional discussion template | October 22, 2026
+Canonical: https://aicybersecurityforinsuranceagencies.com/readiness-kit
+
+Allow 15 minutes. No live account changes, real transfers, credentials or client records.
+0–3 minutes: assign facilitator, reader, decision owner and note-taker roles.
+Read: a familiar-looking vendor message changes payment instructions and supplies
+its own callback number. It says the usual approver is unavailable.
+3–10 minutes: discuss the trusted verification route, approval, backup,
+escalation and approved decision-record location.
+10–15 minutes: compare the answer guide and assign one follow-up.
+
+Exercise/date:
+Roles:
+What changed:
+Previously approved contact-record location (not the contact details):
+Verification owner:
+Approval role / backup:
+Decision / escalation:
+Evidence location:
+What remains unknown:
+Follow-up owner / review date:
+
+Expected process: pause the sensitive change; verify through a trusted route
+already in approved records; follow established approval and escalation;
+record the decision. The new number cannot independently verify its own message.
+Unknown is not proof of compromise. Discussion does not test technical controls.
+No exercise completion implies certification, security or insurance coverage.
+
+Reuse under the canonical kit terms. Attribute Cirlet; publishers may qualify links.
