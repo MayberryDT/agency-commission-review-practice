@@ -19,8 +19,19 @@ The example does not establish error severity, review time, savings, suitability
 
 For a different batch, record its own counts and reference-review method. With no actual errors, error detection is undefined; with no flags, precision is undefined. Do not substitute zero or perfect percentages for missing denominators.
 
+## Follow a flag through the review
+
+After the count exercise, try one flagged sample row in the place where a reviewer would actually work. Record:
+
+- Where the flag appears and how the reviewer opens the source context.
+- Who reviews it, who covers an absence, and where an unresolved question goes.
+- How the reviewer records a confirmed issue or an unnecessary flag, with a reason.
+- The time spent opening, checking, recording and handing off that item, including any copying between tools.
+
+A flag being displayed is not the same as someone reviewing it. Keep detection counts, review effort and completed decisions separate. If a flag cannot be resolved from the supplied evidence, record the missing information rather than clearing it to finish the list. This checks the review process; it does not establish regulatory compliance or validate a tool.
+
 ## Publisher and related practice
 
-Prepared with AI assistance for Tyler Mayberry / Cirlet. Cirlet offers separately scoped paid AI and automation help to independent insurance agencies; the [whole-task cost worksheet](https://insuranceagencyvirtualassistant.com/cost#task-cost-worksheet) is on a commercial service site. For existing scoped help, see [Cirlet](https://cirlet.com/virtual-assistant).
+Prepared with AI assistance for Tyler Mayberry / Cirlet. Cirlet offers separately scoped AI security help, team training and workflow setup to independent insurance agencies; the [whole-task cost worksheet](https://insuranceagencyvirtualassistant.com/cost#task-cost-worksheet) is on a commercial service site. For help configuring one workflow with team training, see the optional [Agency AI & Security Quickstart](https://cirlet.com/quickstart).
 
 Keep private records out of this repository and its issues. No insurance-practitioner credentials, client results, AMS integration or license grant are claimed. The repository's existing no-license boundary remains. Return to the [collection task index](../../README.md#choose-the-task-you-want-to-practice).
