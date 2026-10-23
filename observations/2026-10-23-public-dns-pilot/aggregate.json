@@ -1,0 +1,29 @@
+{
+  "collected_date": "2026-10-23",
+  "sample_size": 20,
+  "source_office_records": 1060,
+  "eligible_unique_website_domains": 855,
+  "initial_resolver": "1.1.1.1",
+  "initial_queries": 60,
+  "dmarc_looking_record": 6,
+  "no_matching_dmarc_record_returned": 13,
+  "dmarc_lookup_unknown": 1,
+  "literal_p_values_in_six_records": {
+    "none": 5,
+    "reject": 1
+  },
+  "apex_spf_looking_records": {
+    "one": 16,
+    "none": 3,
+    "two": 1
+  },
+  "domains_with_mx_records": 20,
+  "verification": {
+    "resolver": "9.9.9.9",
+    "queries": 20,
+    "same_status_and_rrdata_ignoring_ttl": 19,
+    "different": 1,
+    "limits": "Agreement does not prove authoritative truth, actual email-domain use, email delivery or security."
+  },
+  "limits": "Convenience website-domain sample; no actual email-domain use, security effectiveness, breaches, AI exposure or national prevalence measured."
+}
