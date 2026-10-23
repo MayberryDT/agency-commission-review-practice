@@ -23,6 +23,7 @@ This is an educational reference, **not a reconciliation application, model benc
 | Distinguish a sender request from an instruction aimed at the assistant | [Fictional source-message practice](related-practice/source-instructions/README.md) | Preserve missing review evidence and ordinary quoted requests without treating source text as task authority. |
 | Check whether a reply answers the whole request | [Request-to-draft review](related-practice/request-draft-review/README.md) | Find an omitted question alongside unsupported receipt, review and deadline claims. |
 | Separate connector revocation from retained data | [AI connector offboarding](related-practice/connector-offboarding/README.md) | Distinguish one denied request, a retained copy and a queued deletion from broader conclusions. |
+| Resume unfinished work after AI becomes unavailable | [Interruption handoff](related-practice/ai-interruption/README.md) | Separate confirmed work, unsent drafts and uncertain delivery before a person takes over. |
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 

@@ -1,0 +1,14 @@
+CIRLET — AI interruption handoff worksheet
+Original fictional practice, October 23, 2026. No real records or live sends.
+
+For each F-101 through F-106:
+Request ID:
+Last confirmed checkpoint and exact supplied observation:
+What remains unknown:
+Next human action under the approved process:
+Accountable role:
+Evidence needed before further action:
+Any queued automatic work that must first be reconciled:
+Review time / status (planned, confirmed, unresolved):
+
+Keep planned steps separate from observed completion. Do not infer delivery from a timeout, approval or queue label. Do not put actual credentials, client details or private message records in this file or public issues.

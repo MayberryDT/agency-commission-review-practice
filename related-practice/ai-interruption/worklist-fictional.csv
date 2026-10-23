@@ -1,0 +1,7 @@
+request_id,displayed_status,supplied_observation
+F-101,Not started,"Only an intake item exists. No draft, approval or dispatch evidence is supplied."
+F-102,Draft saved,A fictional reply draft was saved. No reviewer approval or send attempt is recorded.
+F-103,Approved; send state unknown,A reviewer approved a draft. The dispatch screen timed out after Send was attempted. No sent-history entry or destination receipt is supplied.
+F-104,Delivered,A fictional saved sent-history entry and matching destination acknowledgment are supplied for this one message.
+F-105,Retry waiting,A fictional retry is queued. The earlier attempt state is unknown. No current destination check or cancellation confirmation is supplied.
+F-106,Partial output,"The output ends halfway through the requested list. No complete draft, approval or dispatch evidence is supplied."
