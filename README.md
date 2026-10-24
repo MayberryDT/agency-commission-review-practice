@@ -35,6 +35,10 @@ Each exercise supplies fictional inputs and a separate authored key. Try the inp
 
 [Editable client wording](related-practice/client-verification/README.md) includes an email paragraph, website copy and an owner review sheet. Replace the placeholders with your agency’s actual process before use. These are original sample messages, not evidence that a particular agency verifies requests or that a client has received them.
 
+## Review a phone-service pilot
+
+[Four sample calls and an editable test log](https://aicybersecurityforinsuranceagencies.com/guides/phone-pilot-rehearsal) help an agency define a narrow AI receptionist or overflow-service trial. Review coverage and cancellation requests, an unanswered transfer and a caller asking to change forwarding instructions. The original review notes describe a sample policy; the blank log is for actual evidence, not prefilled test results. No live calls or client records are needed for the paper exercise. Published by Cirlet; it does not offer a phone product or endorse a vendor.
+
 ## One dated CLI observation
 
 [A captured review of the request-to-draft fixture](observations/2026-10-22-grok-cli/README.md) includes the exact supplied prompt, first assistant response and runtime limits. It uses fictional inputs, supplies no performance score and does not establish fully isolated context or readiness for real agency records. The deliberately flawed teaching draft remains separate from the observed review.
