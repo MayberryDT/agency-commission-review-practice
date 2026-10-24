@@ -43,6 +43,10 @@ Each exercise supplies fictional inputs and a separate authored key. Try the inp
 
 [Four questions before an AI service hits its limit](briefings/2026-10-24-ai-availability/README.md) help an agency record usage limits, warning ownership, staff fallback and restart approval. Original planning prompts linked to CISA’s October 22 resource; no incident, provider capability or tested fallback is claimed.
 
+## Email automation and recipient checks
+
+[An October 24 provider briefing](briefings/2026-10-24-email-recipient-path/README.md) explains a specific Nodemailer address-parsing advisory, the affected and patched versions, and four questions for an application owner. It separates the original October 19 advisory from the October 23 global entry. No agency exposure, incident or tested remediation is claimed.
+
 ## Dated model observations
 
 [A captured review of the request-to-draft fixture](observations/2026-10-22-grok-cli/README.md) includes the exact supplied prompt, first assistant response and runtime limits. It uses fictional inputs, supplies no performance score and does not establish fully isolated context or readiness for real agency records. The deliberately flawed teaching draft remains separate from the observed review.
