@@ -1,5 +1,7 @@
 # Client wording for checking payment-change messages
 
+This pack is an editable companion to Cirlet’s existing [client-verification message guide](https://aicybersecurityforinsuranceagencies.com/guides/client-verification-message), which already provides email/website wording and a combined download. The separate files here offer another distribution format for that same task; they do not establish a new agency need or proven adoption.
+
 An agency can adapt these sample messages to explain how a client should check a message claiming that payment instructions have changed. They are drafts for owner review, not an established agency policy or a live fraud test. No real client information is included.
 
 ## Files
