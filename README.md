@@ -31,6 +31,10 @@ Each exercise supplies fictional inputs and a separate authored key. Try the inp
 
 [Agency security tabletop](related-practice/security-tabletop/README.md): the existing Cirlet 15-minute fictional discussion, with editable exercise and after-action worksheets. For trainers and IT providers helping an agency identify its trusted verification route, approval owner and unanswered questions. This republishes existing kit material; it is not a live security test or a customer result. Its specific reuse terms are linked in the folder.
 
+## Explain request verification to clients
+
+[Editable client wording](related-practice/client-verification/README.md) includes an email paragraph, website copy and an owner review sheet. Replace the placeholders with your agency’s actual process before use. These are original sample messages, not evidence that a particular agency verifies requests or that a client has received them.
+
 ## One dated CLI observation
 
 [A captured review of the request-to-draft fixture](observations/2026-10-22-grok-cli/README.md) includes the exact supplied prompt, first assistant response and runtime limits. It uses fictional inputs, supplies no performance score and does not establish fully isolated context or readiness for real agency records. The deliberately flawed teaching draft remains separate from the observed review.

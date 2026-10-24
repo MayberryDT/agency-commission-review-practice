@@ -1,0 +1,9 @@
+DRAFT — replace placeholders and approve before use
+
+Checking a payment-change message
+
+A message claiming that payment instructions have changed needs an independent check before you act. Reach [AGENCY NAME] through [ESTABLISHED CONTACT ROUTE] so the question can follow [CONFIRMED AGENCY/CARRIER/FINANCE-PROVIDER PROCESS].
+
+Use contact details you already trust or obtain independently of the message. Do not treat the message’s own phone number, link or attachment as verification. If you cannot confirm the instructions, pause the change and use the established contact route.
+
+[APPROVED PUBLIC CONTACT DETAILS]

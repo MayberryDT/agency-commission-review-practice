@@ -1,0 +1,19 @@
+Owner review — complete before using the sample wording
+
+Agency name:
+Approved public contact route:
+Where a client can independently find that route:
+Who handles the question:
+Actual agency/carrier/finance-provider process:
+Backup or escalation route when that person is unavailable:
+Approver and approval date:
+Next review date:
+
+[ ] Every bracketed placeholder has been replaced.
+[ ] Contact details match the agency’s approved current public information.
+[ ] The agency can perform the process described; no unprovided service is promised.
+[ ] The responsible owner has reviewed relevant carrier/finance-provider instructions.
+[ ] A client who cannot complete verification has a clear next step.
+[ ] No private staff details, client records or sensitive payment details are included.
+
+An unchecked item remains unresolved. These checks review the wording; they do not test live security controls or confirm that a particular request is legitimate.
