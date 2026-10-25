@@ -16,6 +16,8 @@ Keep [the separate authored key](AUTHORED-REVIEW.md) closed until you finish. Th
 
 ## If you try an approved AI tool
 
+Verify that the complete task and all seven source notes appear together in one submitted message before evaluating the response. An answer generated from only part of the notes cannot be compared fairly with the review key.
+
 Supply only these sample notes and this task:
 
 > Prepare a staff work list as of October 26, 2026, 8:30 a.m. America/Chicago. Use only the supplied notes. Cite the note IDs for every item. Preserve confirmed times, separate requests from accepted assignments, and mark missing completion evidence explicitly. Keep superseded and future items in separate sections. Do not send messages, change records, decide coverage or invent a priority rule. Ask a person to resolve any ambiguity.
