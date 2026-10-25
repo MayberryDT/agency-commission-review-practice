@@ -25,6 +25,8 @@ This is an educational reference, **not a reconciliation application, model benc
 | Separate connector revocation from retained data | [AI connector offboarding](related-practice/connector-offboarding/README.md) | Distinguish one denied request, a retained copy and a queued deletion from broader conclusions. |
 | Resume unfinished work after AI becomes unavailable | [Interruption handoff](related-practice/ai-interruption/README.md) | Separate confirmed work, unsent drafts and uncertain delivery before a person takes over. |
 
+| Check an AI-prepared daily work list | [Daily briefing review](related-practice/daily-briefing/README.md) | Preserve moved meetings, unaccepted assignments and missing completion evidence. |
+
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
 ## Rehearse a suspicious payment-change request
