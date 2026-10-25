@@ -28,6 +28,10 @@ This is an educational reference, **not a reconciliation application, model benc
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
+## Use the daily-briefing exercise as an agent skill
+
+[Agency briefing review practice](skills/agency-briefing-review-practice/README.md) packages the same seven sample notes, flawed briefing and separate authored key for a compatible agent. Review its instructions before installing. The package explains a project-local install, telemetry opt-out and sample-only scope. It adds no cases, live inbox connection, model results or general reuse license. The original exercise above still works without installing software.
+
 ## Rehearse a suspicious payment-change request
 
 [Agency security tabletop](related-practice/security-tabletop/README.md): the existing Cirlet 15-minute fictional discussion, with editable exercise and after-action worksheets. For trainers and IT providers helping an agency identify its trusted verification route, approval owner and unanswered questions. This republishes existing kit material; it is not a live security test or a customer result. Its specific reuse terms are linked in the folder.
