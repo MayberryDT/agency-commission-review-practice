@@ -1,0 +1,9 @@
+record_id,kind,request_id,policy_reference,term_start,term_end,holder,form_code,requested_date,observation
+R101,request,R101,000041,2027-01-01,2028-01-01,Maple Yard,FORM-Z,2026-12-15,Prepare a renewal certificate for Maple Yard.
+R102,follow-up,R101,000041,2027-01-01,2028-01-01,Maple Yard,FORM-Z,2026-12-15,Follow-up to R101; the sender says the requested details are unchanged.
+R103,request,R103,000041,2027-01-01,2028-01-01,Cedar Works,FORM-Z,2026-12-15,Prepare a renewal certificate for Cedar Works.
+R104,request,R104,000042,2026-07-01,2027-07-01,Maple Yard,FORM-Z,2026-12-15,Prepare a renewal certificate for Maple Yard for policy 000042.
+R105,request,,000041,2027-01-01,2028-01-01,Maple Yard,,2026-12-15,The sender asks about a renewal certificate but does not identify the form or whether this repeats R101.
+N201,status,R101,,,,,,,An internal draft exists; the supplied notes do not show approval or delivery.
+N202,status,R103,,,,,,,A draft was sent to an agency reviewer; the supplied notes do not show the review outcome or recipient delivery.
+N203,status,R104,,,,,,,An internal summary was emailed to an agency colleague; the supplied notes do not show recipient delivery.
