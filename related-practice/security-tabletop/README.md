@@ -15,6 +15,8 @@ For another fictional request, try [QR-message review](../qr-message-review/READ
 
 For a separate fictional support-call scenario, try [support-call review](../support-call-review/README.md). It separates an unverified request, a limited screen-view request and uncertain remote-control access.
 
+For a carrier portal found through search, try [search-result review](../search-result-review/README.md). It asks what staff know about an unfamiliar address and how to report an entered password.
+
 ## Full kit and attribution
 
 The [canonical kit](https://aicybersecurityforinsuranceagencies.com/readiness-kit) includes the PDF, slides, facilitator script and answer guide. These two TXT files reproduce the original October 22, 2026 versions without changes.
