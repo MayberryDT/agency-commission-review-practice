@@ -2,7 +2,7 @@
 
 Practice reviewing fictional agency work and security requests, including commission records, AI connector access, QR messages and unexpected support calls. Exercises have separate authored keys; a team security tabletop is also included. Keep source evidence visible and uncertain fields unresolved before considering automation.
 
-This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. All carriers, producers, references and amounts are invented. No customer records are included.
+This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. Carriers, producers, references and amounts in the fictional exercises are invented. Sourced briefings describe real events and organizations. No customer records are included.
 
 ## Download all practice files
 
@@ -65,6 +65,10 @@ The [blank paper action plan](resources/provider-action-plan.txt) collects answe
 ## Email automation and recipient checks
 
 [An October 24 provider briefing](briefings/2026-10-24-email-recipient-path/README.md) explains a specific Nodemailer address-parsing advisory, the affected and patched versions, and four questions for an application owner. It separates the original October 19 advisory from the October 23 global entry. No agency exposure, incident or tested remediation is claimed.
+
+## Unrecognized carrier-portal activity
+
+[A short agency briefing](briefings/2026-11-07-unrecognized-quote-activity/README.md) covers what to report when quote requests in a carrier portal don't look familiar. It links to a historical New York case and NIST guidance; unusual activity alone does not establish a compromise.
 
 ## Dated model observations
 
