@@ -93,7 +93,7 @@ For a permitted trial, compare preparation, review and correction effort using t
 
 The exercises are free to use on your own. If your team wants help setting up one real administrative workflow, Cirlet's [Agency AI & Security Quickstart](https://cirlet.com/quickstart) is $1,500 one time. It includes workflow setup, data and review rules for that task, a team working session for up to five people, written instructions and a verified handoff.
 
-Start with a free, 30-minute conversation with Tyler. Scope, access and timing are agreed first. Training alone can be scoped separately. Keep client records, passwords and other secrets out of public repository discussions.
+Start with a [free, 30-minute conversation with Tyler](https://cirlet.com/quickstart#ask). Scope, access and timing are agreed first. Training alone can be scoped separately. Keep client records, passwords and other secrets out of public repository discussions.
 
 No expected commission, split, accounting entry, bank receipt, payroll, tax treatment, accuracy rate or savings is established by this exercise. It is not legal, insurance or accounting advice. No blanket open-source or data-reuse license is supplied by this repository. The separately labeled security-tabletop folder retains the original kit’s specific reuse terms.
 
