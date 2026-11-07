@@ -1,6 +1,6 @@
 # Agency review practice: fictional exercises and a team rehearsal
 
-Practice commission-row matching, source-note lookup, task-cost arithmetic, link review, form mapping, flag-list review, source-instruction review, request-to-draft review and AI connector offboarding with fictional inputs and separate authored keys. Keep source evidence visible and uncertain fields unresolved before considering automation.
+Practice reviewing fictional agency work and security requests, including commission records, AI connector access, QR messages and unexpected support calls. Exercises have separate authored keys; a team security tabletop is also included. Keep source evidence visible and uncertain fields unresolved before considering automation.
 
 This is an educational reference, **not a reconciliation application, model benchmark, accounting recommendation or AMS integration**. All carriers, producers, references and amounts are invented. No customer records are included.
 
