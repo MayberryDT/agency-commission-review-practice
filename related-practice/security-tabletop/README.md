@@ -11,6 +11,8 @@ An editable copy of the existing [Cirlet readiness exercise](https://aicybersecu
 
 Keep real credentials, client records, bank details and internal contact information out of GitHub and its issues. Store a completed worksheet only in an agency-approved location. Do not change live accounts, transfer money, contact a real vendor or simulate a scam on clients during this discussion.
 
+After the discussion, the [blank paper provider plan](../../resources/provider-action-plan.txt) can help you record broader security questions, owners and follow-up dates. It is separate from the fictional rehearsal and does not test your controls. Keep completed plans in an agency-approved private location.
+
 For another fictional request, try [QR-message review](../qr-message-review/README.md). It covers an unexpected code, an initiated setup and what can remain unknown after a scan.
 
 For a separate fictional support-call scenario, try [support-call review](../support-call-review/README.md). It separates an unverified request, a limited screen-view request and uncertain remote-control access.
