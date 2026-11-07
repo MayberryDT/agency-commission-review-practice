@@ -10,6 +10,12 @@ Use a trusted number, website or reporting route already known to your organizat
 
 These cases were invented and prepared with AI assistance for Tyler Mayberry's agency review-practice collection. They contain no QR codes, working links, real accounts or customer records. They are discussion material, not a security test, a report of an agency incident or a model result. Keep completed responses and internal contact details in an agency-approved location, not in this public repository or its issues. Do not put passwords, recovery codes or customer records in the worksheet. No blanket open-source or data-reuse license is supplied by this bundle.
 
+## Print the practice
+
+[Worksheet (PDF, 2 pages)](qr-message-worksheet.pdf) · [Authored answer key (PDF, 1 page)](qr-message-answer-key.pdf)
+
+The worksheet has the three cases and space to write. Keep completed responses in an agency-approved location.
+
 ## Background
 
 The FBI's [January 2026 alert on QR-code phishing](https://www.fbi.gov/file-repository/cyber-alerts/north-korean-kimsuky-actors-leverage-malicious-qr.pdf) describes targeted attacks on other organizations, including a fake sign-in page. It does not say the fictional cases occurred or establish that the campaign targeted insurance agencies. The source was checked on November 7, 2026.
