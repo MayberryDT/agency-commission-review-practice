@@ -29,6 +29,7 @@ This is an educational reference, **not a reconciliation application, model benc
 | Review an unexpected support call, including a sign-in prompt | [Support-call practice](related-practice/support-call-review/README.md) | Check caller identity, screen access, uncertain remote control and an unrequested sign-in prompt. |
 | Resume unfinished work after AI becomes unavailable | [Interruption handoff](related-practice/ai-interruption/README.md) | Separate confirmed work, unsent drafts and uncertain delivery before a person takes over. |
 | Sort renewal certificate requests | [Renewal request grouping](related-practice/renewal-request-grouping/README.md) | Separate requests, shared preparation and unknown delivery. |
+| Find a policy and cyber endorsement | [Policy-document practice](related-practice/policy-endorsement-review/README.md) | Compare the supplied references and terms; leave drafts and competing versions unresolved. |
 | Check an AI-prepared daily work list | [Daily briefing review](related-practice/daily-briefing/README.md) | Preserve moved meetings, unaccepted assignments and missing completion evidence. |
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.

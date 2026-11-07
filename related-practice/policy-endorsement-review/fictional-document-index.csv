@@ -1,0 +1,10 @@
+document_id,document_label,invented_insured,policy_reference,term_start,term_end,index_status,index_note
+D101,Policy declarations,Fictional Shop A,EX-001,2026-01-01,2027-01-01,copy listed,Document body and current status are not supplied
+D102,Cyber endorsement,Fictional Shop A,EX-001,2026-01-01,2027-01-01,copy listed,Document body and current status are not supplied
+D103,Cyber endorsement,Fictional Shop A,EX-001,2025-01-01,2026-01-01,copy listed,Different term from request A
+D201,Policy declarations,Fictional Shop B,EX-002,2026-07-01,2027-07-01,copy listed,Document body and current status are not supplied
+D202,Cyber endorsement,Fictional Shop B,EX-002,2026-07-01,2027-07-01,draft listed,No final version is identified in the supplied index
+D203,Cyber endorsement,Fictional Shop B,EX-021,2026-07-01,2027-07-01,copy listed,Different policy reference from request B
+D301,Policy declarations,Fictional Shop C,EX-003,2026-03-01,2027-03-01,copy listed,Document body and current status are not supplied
+D302,Cyber endorsement A,Fictional Shop C,EX-003,2026-03-01,2027-03-01,copy listed,Index does not say which endorsement is current
+D303,Cyber endorsement B,Fictional Shop C,EX-003,2026-03-01,2027-03-01,copy listed,Index does not say which endorsement is current
