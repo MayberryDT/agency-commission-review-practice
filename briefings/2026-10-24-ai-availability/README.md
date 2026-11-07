@@ -21,6 +21,8 @@ This is a planning exercise. It contains no customer records, incident findings 
 
 These are Cirlet's original discussion prompts, not quotations or a replacement for the government publication. Provider capabilities must be checked individually.
 
+Try the [fictional AI usage-alert review](../../related-practice/ai-usage-alert-review/README.md) to practice separating alert receipt, response ownership and unknown limits.
+
 ## Keep a small evidence record
 
 | Field | Your record |
