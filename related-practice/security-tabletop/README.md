@@ -25,4 +25,4 @@ Suggested attribution: “Agency AI Attack Readiness Kit, by Cirlet. Free resour
 
 ## Optional help
 
-Bring unresolved questions to the agency’s existing provider. Cirlet’s separate [$750 Security Sprint](https://cirlet.com/security-review) and [$1,500 Agency AI & Security Quickstart](https://cirlet.com/quickstart) have their own scope and terms. The exercise is free and does not establish a service engagement, insurance coverage, certification or emergency monitoring.
+Bring unresolved questions to the agency’s existing provider. Cirlet’s separate [$750 Security Sprint](https://cirlet.com/security) and [$1,500 Agency AI & Security Quickstart](https://cirlet.com/quickstart) have their own scope and terms. The exercise is free and does not establish a service engagement, insurance coverage, certification or emergency monitoring.
