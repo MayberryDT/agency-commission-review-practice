@@ -1,0 +1,62 @@
+Cirlet provider action plan: paper copy
+
+Use this blank worksheet to prepare questions for the person responsible for
+your agency's security. It is a separate plain-text companion to the online
+tool at:
+https://aicybersecurityforinsuranceagencies.com/tools/action-plan
+Questions checked against the online tool on 7 November 2026.
+
+It does not check your accounts or diagnose a security failure. An unknown
+answer is a question to follow up, not proof that a control has failed. Follow
+your agency's incident procedure for an active concern.
+
+Keep completed copies in an agency-approved private location. Do not put
+passwords, one-time codes, client records or policy details in this worksheet
+or in public repository issues.
+
+Prepared on: ____________________
+Follow-up owner: __________________________________________________
+Overall review date: ____________________
+
+For each question, record one answer: Unknown; Known, evidence needed;
+Evidence available, review it; or Not applicable, confirm why. Record the next
+action and who will follow up.
+
+1. AI tools and client information
+Which agency-approved AI tools may receive which types of information, who
+approves access, and who reviews the output before use?
+Answer: ___________________________________________________________
+Evidence requested or next action: ___________________________________
+Owner: __________________________  Follow-up date: _________________
+
+2. Sensitive requests
+How are payment changes and requests for client records independently
+verified?
+Answer: ___________________________________________________________
+Evidence requested or next action: ___________________________________
+Owner: __________________________  Follow-up date: _________________
+
+3. Email authentication
+Who verifies SPF, DKIM and DMARC against your legitimate senders?
+Answer: ___________________________________________________________
+Evidence requested or next action: ___________________________________
+Owner: __________________________  Follow-up date: _________________
+
+4. Account access
+Who owns MFA, privileged access and suspicious sign-in review?
+Answer: ___________________________________________________________
+Evidence requested or next action: ___________________________________
+Owner: __________________________  Follow-up date: _________________
+
+5. Recovery
+Who can recover access through a separate trusted contact route?
+Answer: ___________________________________________________________
+Evidence requested or next action: ___________________________________
+Owner: __________________________  Follow-up date: _________________
+
+6. Website updates
+Who confirms affected components were patched and verifies the running
+version?
+Answer: ___________________________________________________________
+Evidence requested or next action: ___________________________________
+Owner: __________________________  Follow-up date: _________________

@@ -33,6 +33,10 @@ This is an educational reference, **not a reconciliation application, model benc
 
 Each exercise supplies fictional inputs and a separate authored key. Try the inputs before opening its key. These are practice materials, not measured results from an AI tool; keep real customer information out of this repository and its issues.
 
+## Paper provider action plan
+
+The [blank paper action plan](resources/provider-action-plan.txt) collects answers, evidence requests, owners and follow-up dates for the six questions in [Cirlet's online tool](https://aicybersecurityforinsuranceagencies.com/tools/action-plan), checked on 7 November 2026. It is a separate plain-text companion, not a security test or a change to the online tool. Keep completed copies in an agency-approved private location, and keep passwords, codes and client records out of this public repository.
+
 ## Use the daily-briefing exercise as an agent skill
 
 [Agency briefing review practice](skills/agency-briefing-review-practice/README.md) packages the same seven sample notes, flawed briefing and separate authored key for a compatible agent. Review its instructions before installing. The package explains a project-local install, telemetry opt-out and sample-only scope. It adds no cases, live inbox connection, model results or general reuse license. The original exercise above still works without installing software.
