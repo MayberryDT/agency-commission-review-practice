@@ -1,0 +1,8 @@
+id,source,fictional note
+N01,Owner,"The draft-note integration uses one AI API account. I do not know whether another tool uses that account too."
+N02,Billing contact,"I received a usage alert for the draft-note integration last week. I can view the billing summary."
+N03,Developer,"I maintain the draft-note integration. The owner can reach me through our usual work contact. I have not confirmed whether I receive usage alerts."
+N04,Owner,"The billing contact is away next week. No backup recipient or response owner has been assigned."
+N05,Setup note,"The alert was described as a notification. The notes do not say whether any spending or request limit exists."
+N06,Billing contact,"I saw a higher usage total than I expected. I have not checked the activity details or asked the developer about a planned change."
+N07,Developer,"I can investigate the integration if the owner contacts me. I have not checked the provider account or verified the cause of the higher total."

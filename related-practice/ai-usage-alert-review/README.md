@@ -1,0 +1,9 @@
+# Practice checking who handles AI usage alerts
+
+A small business uses an AI API to make internal draft notes. The owner wants to know what the team can actually do if usage looks wrong. Read the [fictional notes](source-notes.csv), fill in the [blank review](review-blank.csv), then compare your answers with the separate [authored key](AUTHORED-KEY.md).
+
+For each item, cite the note IDs that support your answer. Separate what someone received, what they can do and what still needs checking. The notes do not prove an incident or tell you how any provider's controls work. A sample alert or a person's access is not proof that spending stops, that all usage is monitored, or that a backup receives alerts.
+
+All names, roles, systems and notes are invented. This is original AI-assisted teaching material prepared for Tyler Mayberry's agency review-practice collection. No real account, client data, API key, price, provider interface or model test is included. Keep real credentials and customer records out of public repositories and issues. This is not a provider setup guide, security assessment, billing guarantee or a test of an AI model. No blanket open-source or data-reuse license is supplied by this bundle.
+
+For an actual setup, the account owner and the people responsible for billing and security should check the provider's current documentation, access, alert scope, reporting delays and response process. Do not change a real integration based on these fictional notes. Google Cloud's [budget documentation](https://docs.cloud.google.com/billing/docs/how-to/budgets) distinguishes alerts-only budgets from supported spend-cap budgets; other services and providers differ. Google's [threat research](https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/) describes misuse of cloud AI resources in investigations; it does not describe this fictional case.
