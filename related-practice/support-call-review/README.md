@@ -1,6 +1,6 @@
-# An unexpected support call: three fictional decisions
+# An unexpected support call: four fictional decisions
 
-Practice deciding what to do when someone asks to see or control an agency computer. Allow about 10 minutes. The cases are separate and invented. They do not describe an agency incident or a test of Teams or any other software.
+Practice deciding what to do when someone asks for access to an agency computer or account. The cases are separate and invented. They do not describe an agency incident or a test of Teams or any other software.
 
 Read each case and answer the questions before opening the [authored answer guide](AUTHORED-KEY.md). For each answer, separate what the case says from what you would still need to check.
 
@@ -28,6 +28,14 @@ In a third, separate case, an employee accepted an unexpected support call and s
 2. Who should be told, and what facts can the employee report through the agency's approved channel?
 3. Does the screen share alone prove that a breach occurred or that no remote control occurred?
 
+## Case 4: an unexpected sign-in prompt
+
+During another unexpected call, a person says they work for the agency's IT provider. The employee has not started a sign-in. The sign-in app the employee normally uses shows three requests to approve an agency account sign-in. The caller reads a number and asks the employee to enter it in the app to complete a security update. The employee has not approved a request.
+
+1. What is known about the call and the sign-in requests? What remains unknown?
+2. What should the employee do with the requests and the caller? Who should be told?
+3. If the employee had accidentally approved a request before stopping, what should they report?
+
 ## Keep the practice fictional
 
 Do not call a number, share a screen, change an account or contact a real provider as part of this exercise. Do not put passwords, one-time codes, client records or actual support numbers into your answers or this public repository. Keep any completed notes in an agency-approved location.
@@ -37,5 +45,7 @@ For a real suspicious request, use your agency's existing incident procedure and
 ## Background and limits
 
 [Microsoft's 5 November 2026 threat report](https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/) describes attacks using Teams calls, screen sharing and remote-support tools. Microsoft does not identify an insurance-agency victim in that discussion, and its call-attempt counts do not establish successful attacker interactions. These cases are our invented teaching examples, not Microsoft scenarios or an endorsement.
+
+[Microsoft's Authenticator guidance](https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-authenticator-app) describes denying a sign-in notification that is not legitimate. [CISA's number-matching guidance](https://www.cisa.gov/sites/default/files/publications/fact-sheet-implement-number-matching-in-mfa-applications-508c.pdf) recommends reporting unknown or repeated requests and investigating denied prompts. Neither organization supplied or endorsed these fictional cases.
 
 Prepared with AI assistance for Tyler Mayberry's Cirlet agency-practice collection. Cirlet is Tyler's commercial business; its [Agency AI Security Sprint](https://cirlet.com/security) is a separate paid service, not emergency incident response. This is discussion material, not a live test, a security assessment, an incident finding or a guarantee. [Return to the practice collection](https://github.com/MayberryDT/agency-commission-review-practice). No blanket open-source or data-reuse license is supplied by the collection.
