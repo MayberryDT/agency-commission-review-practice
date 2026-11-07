@@ -11,6 +11,8 @@ An editable copy of the existing [Cirlet readiness exercise](https://aicybersecu
 
 Keep real credentials, client records, bank details and internal contact information out of GitHub and its issues. Store a completed worksheet only in an agency-approved location. Do not change live accounts, transfer money, contact a real vendor or simulate a scam on clients during this discussion.
 
+For another fictional request, try [QR-message review](../qr-message-review/README.md). It covers an unexpected code, an initiated setup and what can remain unknown after a scan.
+
 ## Full kit and attribution
 
 The [canonical kit](https://aicybersecurityforinsuranceagencies.com/readiness-kit) includes the PDF, slides, facilitator script and answer guide. These two TXT files reproduce the original October 22, 2026 versions without changes.
