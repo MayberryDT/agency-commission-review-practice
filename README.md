@@ -25,6 +25,7 @@ This is an educational reference, **not a reconciliation application, model benc
 | Check an unexpected app request and review connector offboarding | [AI connector offboarding](related-practice/connector-offboarding/README.md) | Read what to check before approval; practice distinguishing a denied request, retained data and a queued deletion. |
 | Check who handles AI usage alerts | [AI usage-alert review](related-practice/ai-usage-alert-review/README.md) | Separate alert receipt, response ownership and unknown limits. |
 | Review a QR-code request | [QR-message review](related-practice/qr-message-review/README.md) | Check the request through a known route and keep post-scan unknowns visible. |
+| Review a carrier portal search result | [Search-result practice](related-practice/search-result-review/README.md) | Verify the address through an established route and report what is known. |
 | Review an unexpected support call | [Support-call practice](related-practice/support-call-review/README.md) | Separate caller verification, limited screen access and unknown remote control. |
 | Resume unfinished work after AI becomes unavailable | [Interruption handoff](related-practice/ai-interruption/README.md) | Separate confirmed work, unsent drafts and uncertain delivery before a person takes over. |
 | Sort renewal certificate requests | [Renewal request grouping](related-practice/renewal-request-grouping/README.md) | Separate requests, shared preparation and unknown delivery. |
