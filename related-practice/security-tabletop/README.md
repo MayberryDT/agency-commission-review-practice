@@ -13,6 +13,8 @@ Keep real credentials, client records, bank details and internal contact informa
 
 For another fictional request, try [QR-message review](../qr-message-review/README.md). It covers an unexpected code, an initiated setup and what can remain unknown after a scan.
 
+For a separate fictional support-call scenario, try [support-call review](../support-call-review/README.md). It separates an unverified request, a limited screen-view request and uncertain remote-control access.
+
 ## Full kit and attribution
 
 The [canonical kit](https://aicybersecurityforinsuranceagencies.com/readiness-kit) includes the PDF, slides, facilitator script and answer guide. These two TXT files reproduce the original October 22, 2026 versions without changes.
