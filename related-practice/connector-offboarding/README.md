@@ -17,6 +17,12 @@ An observed failure to retrieve a new message is evidence about that tested requ
 
 Keep sending permission separate from permission to read or create a draft. A successful draft does not establish authority to send it.
 
+## Before approving a connection
+
+An unfamiliar app can request access through a real sign-in provider. Before approving it, check who made the app, what it asks to do and whether the request matches the connection your agency intended to set up. Verify an unexpected request through a contact route you already trust.
+
+If someone may have approved an unexpected request, tell your IT or security provider what happened. Ask them to investigate the app's access and the appropriate response. The FBI warns that some consent grants can remain active after a password change; a password reset alone does not establish that app access has ended. See the [FBI's September 2026 consent-phishing advisory](https://www.ic3.gov/PSA/2026/PSA260901).
+
 ## Related resources and provenance
 
 [Return to the practice collection](../../README.md).
