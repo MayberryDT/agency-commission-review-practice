@@ -1,6 +1,6 @@
 item,question,supporting_note_ids,what_is_established,what_is_unknown,next_question_or_action
-A,"What account and coverage of other tools are known?",,,
-B,"Who received an alert and who can investigate?",,,
-C,"What happens while the billing contact is away?",,,
-D,"Does the alert prove usage or spending will stop?",,,
-E,"What does the higher total establish and what should happen next?",,,
+A,"What account and coverage of other tools are known?",,,,
+B,"Who received an alert and who can investigate?",,,,
+C,"What happens while the billing contact is away?",,,,
+D,"Does the alert prove usage or spending will stop?",,,,
+E,"What does the higher total establish and what should happen next?",,,,
